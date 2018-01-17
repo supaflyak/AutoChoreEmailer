@@ -1,0 +1,3 @@
+exampleemail1@gmail.com
+exampleemail2@gmail.com
+exampleemailn@gmail.com

@@ -1,0 +1,6 @@
+# TITLE OF CHORE; HOW MANY WEEKS THE CHORE MUST BE DONE; DESCRIPTION OF CHORE
+Garbage;1;Take out trash on Monday night
+Sweep and Mop;1;Sweep and mop all common floors
+Mow Lawn;5;Mow the front and back lawn
+Clean Bathroom;3;Clean tub, wipe down surfaces, and mirror
+Clean Kitchen;2;Clean countertops, stove, tidy tables, and put away clean dishes
